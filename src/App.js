@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Link } from "react-router-dom";
 import './App.css';
 import Routes from "./Routes";
-const config = require('../config.js')
 
 class App extends Component {
   render() {
